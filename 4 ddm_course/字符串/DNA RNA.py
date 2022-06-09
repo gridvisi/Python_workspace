@@ -1,0 +1,137 @@
+__author__ = 'Administrator'
+
+# Input sequence
+test_sequence = "ACAACATACAAAGGGCCACAGATACATCAAAAAATGCTCAACATCACTATTTGTCAGGGAAGTACTAATTAAAACCAAAATGAGATGTCCCCTCAAACCTGTTAGAATGGCTATTATCAAAAAGATGAAAGATAGCAACTATCAGAGAGGATGATAGAAAAGGGAACCCTTGCATCATGTACAAATTAAAAATAGAACTATCACATGATCCAAGAATCCTACTTCTGGGTATATAGCCAAAGGAATTGAAATCAATATGTCAAAGGGATATCTGCACTCCTATGTTATTGCAGCATGTTCACAATGGCCAAGATATAGAATCAACCTAACTGTTCATAGACAGATGAATGGATAAATGAAATGTGATATGGAAAATTATTCAGCCTTAAAAACAGTAGGAAATTCTGTCATTTGAGACAACGTGGATGAACCTAGAGGACATTAAGCTAAGTGAAATAAGCTAGACACAGAAAGACAAATATTGCATGATCTCACTTAGAATCTAAAAAATCTGAACTCATAGAAGCAGAGAATAGTATGATGGTTACTAGGGTTATCTGGCAGGGAGAGGATGAGGAAATGGGACATTGTTAATAAAAGGAAAAAAATTCAATTAGTAGG"
+def length(string):
+    # length = 0;
+    length = len(string)
+    return length
+
+# Print your result.
+print(length(test_sequence))
+
+#Adenine（A，腺嘌呤）一定与Thymine（T，胸腺嘧啶）配对，Guanine（G，鸟嘌呤）一定与Cytosine（C，胞嘧啶）配对
+#计算T的数量：
+test_sequence = "ACAACATACAAAGGGCCACAGATACATCAAAAAATGCTCAACATCACTATTTGTCAGGGAAGTACTAATTAAAACCAAAATGAGATGTCCCCTCAAACCTGTTAGAATGGCTATTATCAAAAAGATGAAAGATAGCAACTATCAGAGAGGATGATAGAAAAGGGAACCCTTGCATCATGTACAAATTAAAAATAGAACTATCACATGATCCAAGAATCCTACTTCTGGGTATATAGCCAAAGGAATTGAAATCAATATGTCAAAGGGATATCTGCACTCCTATGTTATTGCAGCATGTTCACAATGGCCAAGATATAGAATCAACCTAACTGTTCATAGACAGATGAATGGATAAATGAAATGTGATATGGAAAATTATTCAGCCTTAAAAACAGTAGGAAATTCTGTCATTTGAGACAACGTGGATGAACCTAGAGGACATTAAGCTAAGTGAAATAAGCTAGACACAGAAAGACAAATATTGCATGATCTCACTTAGAATCTAAAAAATCTGAACTCATAGAAGCAGAGAATAGTATGATGGTTACTAGGGTTATCTGGCAGGGAGAGGATGAGGAAATGGGACATTGTTAATAAAAGGAAAAAAATTCAATTAGTAGG"
+def thymine_counter(sequence):
+    thymines = 0
+
+    for base in sequence:
+        if base is "T":
+            thymines = thymines + 1
+
+    return thymines
+print(thymine_counter(test_sequence))
+
+#Adenine（A，腺嘌呤）一定与Thymine（T，胸腺嘧啶）配对，Guanine（G，鸟嘌呤）一定与Cytosine（C，胞嘧啶）配对
+#计算A,T,G,C的数量：
+def atgc_counter(sequence):
+    adenine = 0
+    thymines = 0
+    guanine = 0
+    cytosine = 0
+    for base in sequence:
+        if base is "A":
+            adenine = adenine + 1
+        if base is "T":
+            thymines = thymines + 1
+        if base is "G":
+            guanine = guanine + 1
+        if base is "C":
+            cytosine = cytosine + 1
+    return adenine,guanine,thymines,cytosine
+print(atgc_counter(test_sequence))
+
+
+gene = "TCAGACTGGTGCCGTGGTGCTCTCGCCCGATGTGACGTCGACCGCCAGCGGCGCGATGACGCCGAGGATTTCCGTGATCGTTTCGGAGGGCACGCCGGCTGCGGTCAGCGCGTCGGCCAAGTGTCCGGCGACCAGGCTGAAGTGGTGCATGGTAATTCCGCGCCCCTGATGGACTTGCTTCATCGGCGCACCGGTATAGGGCTCGGGCCCGCCAAGCGCGGCCGCGAAAAACTCCACCTGCTTGCCCTTGAGGCGGCTCATGTTCGTACCGCTGAAGAAGGCCGATAGTTGGTCATCGGCAAGCACACGAACATAGAAGTCCTCGACGACGACTTCGATGGCCTCATGCCCGCCGATCTTGTCGTAGATGCTGATCGGCTCACGTTTGCGCAAGCGTGACAGTAGTCCCATTTTTATA"
+if gene[5] == "C":
+    queu = ""
+    print(gene[5])
+    print(gene[0:10].join(',,,'))
+    print(gene[0:10].join(','','','))
+    print(gene[0:5].join('6'))
+    print(queu.join("x"))
+else:
+    print("not found")
+
+
+def complement(seq):
+    comp_seq = ""
+    comp_seq = []
+    # Find complement sequence.
+    num = len(seq)
+    for i in range(num):
+        if seq[i] == "A":
+            comp_seq.append("T")
+
+        if seq[i] == "T":
+            comp_seq.append("A")
+
+        if seq[i] == "C":
+            comp_seq.append("G")
+
+        if seq[i] == "G":
+            comp_seq.append("C")
+    return comp_seq
+
+
+print(complement(gene))
+seq = complement(gene)
+str1 = ''.join([str(x) for x in seq])
+print(str1)
+
+
+def reverse(Sequence):
+    return Sequence[::-1]
+
+
+print("reverse:", reverse(str1))
+
+
+# Import the sequence and alphabet toolboxes from the Biopython library
+from Bio.Seq import Seq
+from Bio.Alphabet import IUPAC
+
+# Define a sequence as a DNA Seq object
+seq = Seq("CCTCAGCGAGGACAGCAAGGGACTAGCC", IUPAC.unambiguous_dna)
+
+# We've assigned a DNA alphabet to our sequence
+alphabet = seq.alphabet
+
+# The complement() method can act just like your complement() function.
+complement = seq.complement()
+
+# Similarly, we can use the reverse_complement() method.
+reverse_complement = seq.reverse_complement()
+
+# We can even use the transcribe() method to switch alphabets to RNA
+RNA = seq.transcribe()
+print(RNA)
+
+'''
+You can execute this function for yourself for a real gene sequence gdh in the coding environment here:
+您可以在这里的编码环境中为您自己执行一个真正的基因序列gdh的函数：
+# Modify the function here.
+在此处修改函数。
+# Read the RNA sequence codon-by-codon and write the string "protein" according to the genetic code dict.
+根据密码子读取RNA序列密码子，并根据遗传代码dict写入字符串“蛋白质”。
+protein=[]
+蛋白质＝[]
+'''
+gdh = 'AUGGAUCAGACAUAUUCUCUGGAGUCAUUCCUCAACCAUGUCCAAAAGCGCGACCCGAAUCAAACCGAGUUCGCGCAAGCCGUUCGUGAAGUAAUGACCACACUCUGGCCUUUUCUUGAACAAAAUCCAAAAUAUCGCCAGAUGUCAUUACUGGAGCGUCUGGUUGAACCGGAGCGCGUGAUCCAGUUUCGCGUGGUAUGGGUUGAUGAUCGCAACCAGAUACAGGUCAACCGUGCAUGGCGUGUGCAGUUCAGCUCUGCCAUCGGCCCGUACAAAGGCGGUAUGCGCUUCCAUCCGUCAGUUAACCUUUCCAUUCUCAAAUUCCUCGGCUUUGAACAAACCUUCAAAAAUGCCCUGACUACUCUGCCGAUGGGCGGUGGUAAAGGCGGCAGCGAUUUCGAUCCGAAAGGAAAAAGCGAAGGUGAAGUGAUGCGUUUUUGCCAGGCGCUGAUGACUGAACUGUAUCGCCACCUGGGCGCGGAUACCGACGUUCCGGCAGGUGAUAUCGGGGUUGGUGGUCGUGAAGUCGGCUUUAUGGCGGGGAUGAUGAAAAAGCUCUCCAACAAUACCGCCUGCGUCUUCACCGGUAAGGGCCUUUCAUUUGGCGGCAGUCUUAUUCGCCCGGAAGCUACCGGCUACGGUCUGGUUUAUUUCACAGAAGCAAUGCUAAAACGCCACGGUAUGGGUUUUGAAGGGAUGCGCGUUUCCGUUUCUGGCUCCGGCAACGUCGCCCAGUACGCUAUCGAAAAAGCGAUGGAAUUUGGUGCUCGUGUGAUCACUGCGUCAGACUCCAGCGGCACUGUAGUUGAUGAAAGCGGAUUCACGAAAGAGAAACUGGCACGUCUUAUCGAAAUCAAAGCCAGCCGCGAUGGUCGAGUGGCAGAUUACGCCAAAGAAUUUGGUCUGGUCUAUCUCGAAGGCCAACAGCCGUGGUCUCUACCGGUUGAUAUCGCCCUGCCUUGCGCCACCCAGAAUGAACUGGAUGUUGACGCCGCGCAUCAGCUUAUCGCUAAUGGCGUUAAAGCCGUCGCCGAAGGGGCAAAUAUGCCGACCACCAUCGAAGCGACUGAACUGUUCCAGCAGGCAGGCGUACUAUUUGCACCGGGUAAAGCGGCUAAUGCUGGUGGCGUCGCUACAUCGGGCCUGGAAAUGGCACAAAACGCUGCGCGCCUGGGCUGGAAAGCCGAGAAAGUUGACGCACGUUUGCAUCACAUCAUGCUGGAUAUCCACCAUGCCUGUGUUGAGCAUGGUGGUGAAGGUGAGCAAACCAACUACGUGCAGGGCGCGAACAUUGCCGGUUUUGUGAAGGUUGCCGAUGCGAUGCUGGCGCAGGGUGUGAUUUAA'
+map = {'AUG': 'M', 'GCG': 'A', 'UCA': 'S', 'GAA': 'E', 'GGG': 'G', 'GGU': 'G', 'AAA': 'K', 'GAG': 'E', 'AAU': 'N',
+       'CUA': 'L', 'CAU': 'H', 'UCG': 'S', 'UAG': 'STOP', 'GUG': 'V', 'UAU': 'Y', 'CCU': 'P', 'ACU': 'T', 'UCC': 's',
+       'CAG': 'Q', 'CCA': 'P', 'UAA': 'STOP', 'AGA': 'R', 'ACG': 'T', 'CAA': 'Q', 'UGU': 'C', 'GCU': 'A', 'UUC': 'F',
+       'AGU': 'S', 'AUA': 'I', 'UUA': 'L', 'CCG': 'P', 'AUC': 'I', 'UUU': 'F', 'CGU': 'R', 'UGA': 'STOP', 'GUA': 'V',
+       'UCU': 'S', 'CAC': 'H', 'GUU': 'V', 'GAU': 'D', 'CGA': 'R', 'GGA': 'G', 'GUC': 'V', 'GGC': 'G', 'UGC': 'C',
+       'CUG': 'L', 'CUC': 'L', 'CGC': 'R', 'CGG': 'R', 'AAC': 'N', 'GCC': 'A', 'AUU': 'I', 'AGG': 'R', 'GAC': 'D',
+       'ACC': 'T', 'AGC': 'S', 'UAC': 'Y', 'ACA': 'T', 'AAG': 'K', 'GCA': 'A', 'UUG': 'L', 'CCC': 'P', 'CUU': 'L',
+       'UGG': 'W'}
+
+
+def translate(rna):
+    # Modify the function here.
+    # Read the RNA sequence codon-by-codon and write the string "protein" according to the genetic code dict.
+    protein = []
+    return protein
+

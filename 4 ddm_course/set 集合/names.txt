@@ -1,0 +1,320 @@
+
+with open("names.txt") as f:
+    names = f.readline()[:1000000]
+    names_set = set(names)
+
+def in_name():
+    ret = []
+    for i in range(100):
+        ret.append(str(i) in names)
+    return ret
+
+def in_name_set():
+    ret = []
+    for i in range(100):
+        ret.append(str(i) in names_set)
+    return ret
+
+print("Running in_names")
+s = time.time()
+in_name()
+print("Time taken:",time.time()-s)
+
+print("Running in_names_set")
+s = time.time()
+in_name_set()
+print("Time taken:",time.time()-s)
+
+
+ ? Python既然作为开发语言，肯定不可避免要操作外部文件，比如读取外部文件然后进行计算，比如将运算的结果存储到本地文件。下面演示python常用的操作文件的方法。
+
+在?Python?中要操作文件需要记住 1 个函数和 3 个方法
+
+序号	函数/方法	说明
+01	open	打开文件，并且返回文件操作对象
+02	read	将文件内容读取到内存
+03	write	将指定内容写入文件
+04	close	关闭文件
+open?函数负责打开文件，并且返回文件对象
+read/write/close?三个方法都需要通过?文件对象?来调用
+1.新建（打开）文件和关闭文件
+1.1在python，使用open函数，可以打开一个已经存在的文件，或者如果该文件不存在，则会创建一个新文件。
+
+格式如下：open("文件名"，访问模式) ,默认的创建的目录在当前程序所在的目录
+
+fo=open("myfile.doc",'w') #该文件不存在，则在当前目录创建该文件,如下图：
+
+常用的访问模式用法：
+温馨提示：频繁的移动文件指针，会影响文件的读写效率，开发中更多的时候会以?只读、只写?的方式来操作文件
+
+访问模式	说明
+r	以只读方式打开文件。文件的指针将会放在文件的开头。这是默认模式。
+w	打开一个文件只用于写入。如果该文件已存在则将其覆盖。如果该文件不存在，创建新文件。
+a	打开一个文件用于追加。如果该文件已存在，文件指针将会放在文件的结尾。也就是说，新的内容将会被写入到已有内容之后。如果该文件不存在，创建新文件进行写入。
+rb	以二进制格式打开一个文件用于只读。文件指针将会放在文件的开头。这是默认模式。
+wb	以二进制格式打开一个文件只用于写入。如果该文件已存在则将其覆盖。如果该文件不存在，创建新文件。
+ab	以二进制格式打开一个文件用于追加。如果该文件已存在，文件指针将会放在文件的结尾。也就是说，新的内容将会被写入到已有内容之后。如果该文件不存在，创建新文件进行写入。
+r+	打开一个文件用于读写。文件指针将会放在文件的开头。
+w+	打开一个文件用于读写。如果该文件已存在则将其覆盖。如果该文件不存在，创建新文件。
+a+	打开一个文件用于读写。如果该文件已存在，文件指针将会放在文件的结尾。文件打开时会是追加模式。如果该文件不存在，创建新文件用于读写。
+rb+	以二进制格式打开一个文件用于读写。文件指针将会放在文件的开头。
+wb+	以二进制格式打开一个文件用于读写。如果该文件已存在则将其覆盖。如果该文件不存在，创建新文件。
+ab+	以二进制格式打开一个文件用于追加。如果该文件已存在，文件指针将会放在文件的结尾。如果该文件不存在，创建新文件用于读写。
+1.2因为文件的读取是流式的，像一个水管的阀门一样。每次读取操作的文件的时候，要先打开阀门open()，所以用完也要关闭。直接fo.close()即可。
+
+# 新建一个文件，文件名为:test.txt
+f = open('test.txt', 'w')
+# 关闭这个文件,文件操作完毕要将流给关闭
+f.close()
+2.文件的读写操作read/write
+1.写数据：使用write(“content”)，可以完成向文件写入数据,注意:如果文件不存在那么创建，如果存在那么就先清空文件(覆盖)，然后写入数据到文件里.
+
+f = open('write_demo.txt', 'w') #打开文件，往哪个文件里写入数据。如无，创建。
+print ("文件名为: ", f.name)  #f.name打印文件的名称，带拓展名
+f.write('hello ,I am writing ') #注意write写入是先将文件内容清空，然后再写入。
+f.close() #关闭文件
+2.读数据：使用read(num)可以从文件中读取数据，num表示要从文件中读取的数据的长度（字符个数），如果没有传入num或者为负，那么就表示读取文件中所有的数据,read()将读取的数据以字符串的形式返回。注意：
+
+如果open是打开一个文件，那么可以不用写打开的模式，即只写?open('aaa.txt')
+如果使用read读了多次，那么后面继续使用read读取的数据是从上次读完后的位置开始的
+注意：read?()方法默认会把文件的所有内容?一次性读取到内存,当然可以指定读取的字符数。如果文件太大，对内存的占用会非常严重
+#1.准备文件
+f = open('write_demo.txt', 'w+') #新建文件,w+表示用于读写
+f.write('你好abc王晓明，hello ')  #写入内容
+f.close() #文件关闭
+ 
+#1.读取文件开始
+f=open("write_demo.txt",'r')
+content=f.read(3)  #3表示读取3个字符，虽然说是byte。但是有中文时实际按字符返回的
+print("读取的内容：%s"%content)
+content1=f.read(1)  #注意如果用read（），读取全部，后面再加read(num),就没有内容可读了。返回空字符串
+print("读取文件的内容：%s"%content1)
+content2=f.read(5)
+print("读取文件的内容：%s"%content2)
+f.close()
+'''
+读取的内容：你好a
+读取文件的内容：b
+读取文件的内容：c王晓明，
+'''
+3.读数据：readlines（）可以按照行的方式把整个文件中的内容进行一次性读取，读取所有行(直到结束符 EOF)并返回列表，并且返回的是一个列表，其中每一行（按着换行符进行判断一行）的数据为一个元素。
+
+f = open('test.txt', 'r')
+content = f.readlines() #读取文件中的全部行，按行划分存储到列表中，类型字符串
+print(type(content))  #打印读取结果的值类型，用list列表存储
+ 
+i=1  #遍历列表，将读取的内容显示出来，按照原来文件的行划分。
+for temp in content:
+    print("%d:%s"%(i, temp))
+    i+=1
+f.close()
+'''
+<class 'list'>
+1:hello,world,
+2:this is a demo
+'''
+4.读数据：readline(),对原文件的数据按行读取，（行的划分是\n）.每次只读取一行。如果有多次读取的话，下面一次读取的偏移量是上面读取后的偏移量。
+
+f = open('test.txt', 'r')
+content = f.readline()
+print("第一次读取:%s"%content)
+ 
+content = f.readline()
+print("第二次读取:%s"%content)
+ 
+f.close()
+'''
+第一次读取:hello,world,
+第二次读取:this is a demo
+'''
+统一声明：关于原创博客内容，可能会有部分内容参考自互联网，如有原创链接会声明引用；如找不到原创链接，在此声明如有侵权请联系删除哈。关于转载博客，如有原创链接会声明；如找不到原创链接，在此声明如有侵权请联系删除哈。
+————————————————
+版权声明：本文为CSDN博主「牛大财有大才」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/qq_26442553/article/details/81626442
+
+
+ython文件读写文件是最常见的IO操作。Python内置了读写文件的函数，用法和C是兼容的。
+读写文件前，我们先必须了解一下，在磁盘上读写文件的功能都是由操作系统提供的，现代操作系统不允许普通的程序直接操作磁盘。
+读写文件就是请求操作系统打开一个文件对象（通常称为文件描述符），然后，通过操作系统提供的接口从这个文件对象中读取数据（读文件），或者把数据写入这个文件对象（写文件）
+文章目录
+With open函数打开文件的各种方式
+1.读文件
+2.使用With Open 函数打开，以及常见的坑
+使用方法
+常见的坑
+3.写入内容
+4.With Open写入内容
+5.打开非utf-8编码的文件
+6.打开二进制文件
+7.多个文件的读写操作（2种方法可供参考）
+8.总结
+With open函数打开文件的各种方式
+type	info
+r	以只读方式打开文件。文件的指针将会放在文件的开头。这是默认模式。
+w	打开一个文件只用于写入。如果该文件已存在则将其覆盖。如果该文件不存在，创建新文件。
+a	打开一个文件用于追加。如果该文件已存在，文件指针将会放在文件的结尾。也就是说，新的内容将会被写入到已有内容之后。如果该文件不存在，创建新文件进行写入。
+rb	以二进制格式打开一个文件用于只读。文件指针将会放在文件的开头。这是默认模式。
+wb	以二进制格式打开一个文件只用于写入。如果该文件已存在则将其覆盖。如果该文件不存在，创建新文件。
+ab	以二进制格式打开一个文件用于追加。如果该文件已存在，文件指针将会放在文件的结尾。也就是说，新的内容将会被写入到已有内容之后。如果该文件不存在，创建新文件进行写入。
+r+	打开一个文件用于读写。文件指针将会放在文件的开头。
+w+	打开一个文件用于读写。如果该文件已存在则将其覆盖。如果该文件不存在，创建新文件。
+a+	打开一个文件用于读写。如果该文件已存在，文件指针将会放在文件的结尾。文件打开时会是追加模式。如果该文件不存在，创建新文件用于读写。
+rb+	以二进制格式打开一个文件用于读写。文件指针将会放在文件的开头。
+wb+	以二进制格式打开一个文件用于读写。如果该文件已存在则将其覆盖。如果该文件不存在，创建新文件。
+ab+	以二进制格式打开一个文件用于追加。如果该文件已存在，文件指针将会放在文件的结尾。如果该文件不存在，创建新文件用于读写。
+1.读文件
+要以读文件的模式打开一个文件对象，使用Python内置的open()函数，传入文件名和标
+示符：
+
+f = open( '/Users/michael/test.txt', 'r' )
+1
+标示符’r’表示读，这样，我们就成功地打开了一个文件。
+如果文件不存在，open()函数就会抛出一个IOError的错误，并且给出错误码和详细的信息告诉你文件不存在：
+
+f=open('/Users/michael/notfound.txt', 'r')
+Traceback (most recent call last):
+File "<stdin>", line 1, in <module>
+FileNotFoundError: [Errno 2] No such file or directory: '/Users/michael/notfound.txt'
+1
+2
+3
+4
+如果文件打开成功，接下来，调用read()方法可以一次读取文件的全部内容，Python把内容读到内存，用一个str对象表示：
+
+f.read()
+'Hello, world!'
+1
+2
+最后一步是调用close()方法关闭文件。文件使用完毕后必须关闭，因为文件对象会占用操作系统的资源，并且操作系统同一时间能打开的文件数量也是有限的：
+
+f.close()
+1
+由于文件读写时都有可能产生IOError，一旦出错，后面的f.close()就不会调用。所以，为了保证无论是否出错都能正确地关闭文件，我们可以使用try … finally来实现：
+
+try:
+	f = open('/path/to/file', 'r')
+	print(f.read())
+finally:
+	if f:
+		f.close()
+1
+2
+3
+4
+5
+6
+2.使用With Open 函数打开，以及常见的坑
+使用方法
+但是每次都这么写实在太繁琐，所以，Python引入了with语句来自动帮我们调用close()方法：
+
+with 的作用就是调用close（）方法
+
+with open( '/path/to/file', 'r' ) as f:
+	print( f.read() ) 
+1
+2
+f.read() 读取全部文件内容
+
+这和前面的try ... finally是一样的，但是代码更佳简洁，并且不必调用f.close()方法。
+1
+调用read()会一次性读取文件的全部内容，如果文件有10G，内存就爆了。
+要保险起见，可以反复调用read(size)方法，每次最多读取size个字节的内容。例如，read(1024) 每次读取1024个字节的数据内容
+调用readline()可以每次读取一行内容，调用readlines()一次读取所有内容并按行返回list。因此，要根据需要决定怎么调用。
+如果文件很小，read()一次性读取最方便；如果不能确定文件大小，反复调用read(size)比较保险；如果是配置文件，调用readlines()最方便：
+for line in f.readlines():
+	print( line.strip() ) 
+1
+2
+把末尾的’\n’在 strip() 函数中可以把目标内容line里面所有的空格，空行等都删除掉，只剩余文字内容
+
+常见的坑
+
+（1）如上图，Fold001文件夹下面有个read_file.py文件，这个文件读取hello.txt文件，代码如上图，这样可以正常引用
+（2）但如果引用静态文件的函数，被其他函数再次调用的时候，例如被Fold002里面的函数read.py调用，那么readfile（）函数相当于是在read.py所在目录执行的，那么静态文件hello.txt相对于read.py的路径，就不是上图的路径了，否者会运行会报错，如下
+
+
+3.写入内容
+写文件和读文件是一样的，唯一区别是调用open()函数时，传入标识符’w’或者’wb’表示写文本文件或写二进制文件：
+
+f = open('/Users/michael/test.txt', 'w')
+f.write('Hello, world!')
+f.close()
+1
+2
+3
+你可以反复调用write()来写入文件，但是务必要调用f.close()来关闭文件。
+当我们写文件时，操作系统往往不会立刻把数据写入磁盘，而是放到内存缓存起来，空闲的时候再慢慢写入。
+只有调用close()方法时，操作系统才保证把没有写入的数据全部写入磁盘。忘记调用close()的后果是数据可能只写了一部分到磁盘，剩下的丢失了。所以，还是用with语句来得保险：
+4.With Open写入内容
+with open('/Users/michael/test.txt', 'w') as f:
+	f.write('Hello, world!')
+1
+2
+要写入特定编码的文本文件，请给open()函数传入encoding参数，将字符串自动转换成指定编码
+字符编码
+
+5.打开非utf-8编码的文件
+要读取非UTF-8编码的文本文件，需要给open()函数传入encoding参数，例如，读取GBK编码的文件：
+
+f = open( '/Users/michael/gbk.txt', 'r' , encoding='gbk' )
+f.read()
+1
+2
+遇到有些编码不规范的文件，你可能会遇到UnicodeDecodeError，因为在文本文件中可能夹杂了一些非法编码的字符。遇到这种情况，open()函数还接收一个errors参数，表示如果遇到编码错误后如何处理。最简单的方式是直接忽略：
+
+f = open('/Users/michael/gbk.txt', 'r', encoding='gbk', errors='ignore' )
+1
+6.打开二进制文件
+前面讲的默认都是读取文本文件，并且是UTF-8编码的文本文件。要读取二进制文件，比如图片、视频等等，用’rb’模式打开文件即可：
+
+f = open('/Users/michael/test.jpg', 'rb' )
+f.read()
+b'\xff\xd8\xff\xe1\x00\x18Exif\x00\x00...' # 十六进制表示的字节
+1
+2
+3
+7.多个文件的读写操作（2种方法可供参考）
+with open('/home/xbwang/Desktop/output_measures.txt','r') as f:
+with open('/home/xbwang/Desktop/output_measures2.txt','r') as f1:
+with open('/home/xbwang/Desktop/output_output_bk.txt','r') as f2:
+　　　　　　　........
+1
+2
+3
+4
+with open('/home/xbwang/Desktop/output_measures.txt','r') as f:
+........
+with open('/home/xbwang/Desktop/output_measures2.txt','r') as f1:
+........
+with open('/home/xbwang/Desktop/output_output_bk.txt','r') as f2:
+......
+1
+2
+3
+4
+5
+6
+8.总结
+（1）‘baidu.html’这个是需要保存的文件名字 ‘wb’这个是打开的方式为：以二进制方式读写 f作为打开文件的代称
+
+with open('baidu.html'  ,    'wb'   ) as  f:
+    f.write ( response.content )
+1
+2
+（2）f.read([size])
+size未指定则返回整个文件,如果文件大小>2倍内存则有问题.
+f.read()读到文件尾时返回""(空字串)
+
+（3）file.readline() 返回一行
+
+file.readline([size])
+返回包含size行的列表,size 未指定则返回全部行
+
+for line in f:      
+	print line         #通过迭代器访问
+f.write("hello\n")     #如果要写入字符串以外的数据,先将他转换为字符串.
+f.tell()               #返回一个整数,表示当前文件指针的位置(就是到文件头的比特数).
+f.close() 			   #关闭文件
+————————————————
+版权声明：本文为CSDN博主「Alien-Hu」的原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/chenmozhe22/article/details/81434549
