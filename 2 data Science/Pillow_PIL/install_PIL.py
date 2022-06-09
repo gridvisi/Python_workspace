@@ -1,6 +1,12 @@
 # https://www.geeksforgeeks.org/working-images-python/?ref=lbp
 
+from PIL import Image
 
+image = Image.open('E://brilliant//fail to pay.jpg')  # 创建图像实例
+# 查看图像实例的属性
+print(image.format, image.size, image.mode)
+
+image.show() # 显示图像
 import PIL
 image = PIL.Image.new(mode = "RGB",
                       size = (200, 200),

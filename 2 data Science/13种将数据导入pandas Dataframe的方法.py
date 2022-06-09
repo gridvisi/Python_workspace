@@ -1,7 +1,7 @@
 
 
 from pandas import date
-from pandas_datareader import data
+from pandas_datareaders_unofficial import data
 import datetime as dt
 zm = data.DataReader(
     "ZM",

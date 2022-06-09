@@ -1,15 +1,17 @@
 
+'''
 x = 17
 y = 7
 n = 100
+
+'''
+
+x,y,n = 17,7,100
 print(101 % 7)
 
 print(100//7)
 
 print(100/7)
-
-x,y,n = 17,7,100
-
 # define
 
 def chufa(x,y,n):
@@ -25,3 +27,4 @@ n,x = 366,7
 print(chufa(x,y,n))
 
 #week
+

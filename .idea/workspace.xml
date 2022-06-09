@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1889e1e-9fe2-4ff3-b2da-8a495f2053c1" name="Default Changelist" comment="" />
+    <list default="true" id="a1889e1e-9fe2-4ff3-b2da-8a495f2053c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 data Science/13种将数据导入pandas Dataframe的方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 data Science/13种将数据导入pandas Dataframe的方法.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 data Science/Pillow_PIL/install_PIL.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 data Science/Pillow_PIL/install_PIL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3 codewars/8 kyu Is n divisible by x and y.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 codewars/8 kyu Is n divisible by x and y.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +28,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectId" id="1UJnOvEE3PVDDRjgD3GvVfiRKwx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -28,7 +39,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -47,8 +59,8 @@
       <recent name="D:\Python_workspace\algorithm_portal\AMC" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Split_abc">
-    <configuration name="空格" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.honi">
+    <configuration name="5 kyu Simple string expansion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +68,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zero 2 Hero Class/Join_split" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero 2 Hero Class/Join_split/空格.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/5 kyu Simple string expansion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +81,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7 kyu Interlocking Binary Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="8 kyu Is n divisible by x and y" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -77,11 +89,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zero 2 Hero Class/Bit_wise" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 codewars" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero 2 Hero Class/Bit_wise/7 kyu Interlocking Binary Pairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 codewars/8 kyu Is n divisible by x and y.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -90,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Cat_senrior_2014" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="DP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -98,11 +110,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/测试题目/algorithm_thinking/Cat_senior_11_12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Python_workspace\测试题目\algorithm_thinking\Cat_Junior_level\Cat_senrior_2014.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/DP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,7 +123,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Split_abc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Snake Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -119,11 +131,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zero 2 Hero Class/Join_split" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Game" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero 2 Hero Class/Join_split/Split_abc.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game/Snake Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="size_of_iter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="honi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -140,11 +152,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zero 2 Hero Class/yield keyword do in Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero 2 Hero Class/yield keyword do in Python/size_of_iter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/honi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,11 +167,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Split_abc" />
-        <item itemvalue="Python.空格" />
-        <item itemvalue="Python.Cat_senrior_2014" />
-        <item itemvalue="Python.7 kyu Interlocking Binary Pairs" />
-        <item itemvalue="Python.size_of_iter" />
+        <item itemvalue="Python.honi" />
+        <item itemvalue="Python.DP" />
+        <item itemvalue="Python.5 kyu Simple string expansion" />
+        <item itemvalue="Python.8 kyu Is n divisible by x and y" />
+        <item itemvalue="Python.Snake Game" />
       </list>
     </recent_temporary>
   </component>
