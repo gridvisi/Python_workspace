@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1889e1e-9fe2-4ff3-b2da-8a495f2053c1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan/Deposite.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Loop_control_flow/While_loopExit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Math/排列组合/cloth_color.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/DP/Longest Repeated Subsequence Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/DP/Pots of Gold Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 data Science/13种将数据导入pandas Dataframe的方法.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 data Science/13种将数据导入pandas Dataframe的方法.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 data Science/Pillow_PIL/install_PIL.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 data Science/Pillow_PIL/install_PIL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3 codewars/8 kyu Is n divisible by x and y.py" beforeDir="false" afterPath="$PROJECT_DIR$/3 codewars/8 kyu Is n divisible by x and y.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Zero 2 Hero Class/Loop_control_flow/While_loopExit.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Zero 2 Hero Class/Math/排列组合/cloth_color.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -40,7 +46,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "run.code.analysis.last.selected.profile": "aDefault",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Code With Me"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -59,8 +65,8 @@
       <recent name="D:\Python_workspace\algorithm_portal\AMC" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.honi">
-    <configuration name="5 kyu Simple string expansion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.While_loopExit">
+    <configuration name="Deposite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,11 +74,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/5 kyu Simple string expansion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan/Deposite.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8 kyu Is n divisible by x and y" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Pots of Gold Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,11 +95,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3 codewars" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/DP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3 codewars/8 kyu Is n divisible by x and y.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/DP/Pots of Gold Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="While_loopExit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,11 +116,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zero 2 Hero Class/Loop_control_flow" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/DP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero 2 Hero Class/Loop_control_flow/While_loopExit.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Snake Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="cloth_color" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +137,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Game" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zero 2 Hero Class/Math/排列组合" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game/Snake Game.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero 2 Hero Class/Math/排列组合/cloth_color.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,34 +150,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="honi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Doctests (Deposite 内)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/honi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan/Deposite.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.honi" />
-        <item itemvalue="Python.DP" />
-        <item itemvalue="Python.5 kyu Simple string expansion" />
-        <item itemvalue="Python.8 kyu Is n divisible by x and y" />
-        <item itemvalue="Python.Snake Game" />
+        <item itemvalue="Python.While_loopExit" />
+        <item itemvalue="Python 测试.Doctests (Deposite 内)" />
+        <item itemvalue="Python.Deposite" />
+        <item itemvalue="Python.Pots of Gold Game" />
+        <item itemvalue="Python.cloth_color" />
       </list>
     </recent_temporary>
   </component>
