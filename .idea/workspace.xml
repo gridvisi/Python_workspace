@@ -5,36 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1889e1e-9fe2-4ff3-b2da-8a495f2053c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4 ddm_course/函数式编程/6 kyu String Repetition without Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 ddm_course/函数式编程/6 kyu The takeWhile Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 ddm_course/函数式编程/7 kyu The dropWhile Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 ddm_course/函数式编程/8 kyu Grasshopper - Function syntax debugging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 ddm_course/函数式编程/foo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Code_effecient/code_effect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Flag_flag/6 kyu Is there a sequence re-occuring in the list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Flag_flag/6 kyu Simple string indices.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Flag_flag/7 kyu Count salutes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Flag_flag/7 kyu Stones on the Table.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Flag_flag/ddmcoder_boys_girls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Output_solve/7 kyu Complete The Pattern #10 - Parallelogram.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Output_solve/7 kyu Complete The Pattern #5 - Even Ladder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Output_solve/Fstring_usage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/list_range/7 kyu Maximum Length Difference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brilliant/PourOut/pour-it-out-13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4 ddm_course/函数/6 kyu String Repetition without Function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4 ddm_course/函数/8 kyu Grasshopper - Function syntax debugging.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4 ddm_course/函数/foo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Code_effective_效率/code_效率.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Flag标记思想/6 kyu Is there a sequence re-occuring in the list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Flag标记思想/6 kyu Simple string indices.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Flag标记思想/7 kyu Count salutes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Flag标记思想/7 kyu Stones on the Table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Flag标记思想/ddmcoder_boys_girls.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Output_输出/7 kyu Complete The Pattern #10 - Parallelogram.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Output_输出/7 kyu Complete The Pattern #5 - Even Ladder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Output_输出/Fstring_usage.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/list_数组/7 kyu Maximum Length Difference.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/brilliant/PourOut/pour-it-out-13.py" beforeDir="false" afterPath="$PROJECT_DIR$/brilliant/PourOut/pour-it-out-13.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
