@@ -5,7 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1889e1e-9fe2-4ff3-b2da-8a495f2053c1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Input_output/Input_cheat_sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Input_output/Input_cheat_sheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 ddm_course/函数式编程/6 kyu String Repetition without Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 ddm_course/函数式编程/6 kyu The takeWhile Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 ddm_course/函数式编程/7 kyu The dropWhile Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 ddm_course/函数式编程/8 kyu Grasshopper - Function syntax debugging.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4 ddm_course/函数式编程/foo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Code_effecient/code_effect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Flag_flag/6 kyu Is there a sequence re-occuring in the list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Flag_flag/6 kyu Simple string indices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Flag_flag/7 kyu Count salutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Flag_flag/7 kyu Stones on the Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Flag_flag/ddmcoder_boys_girls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Output_solve/7 kyu Complete The Pattern #10 - Parallelogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Output_solve/7 kyu Complete The Pattern #5 - Even Ladder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Output_solve/Fstring_usage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/list_range/7 kyu Maximum Length Difference.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/brilliant/PourOut/pour-it-out-13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 ddm_course/函数/6 kyu String Repetition without Function.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 ddm_course/函数/8 kyu Grasshopper - Function syntax debugging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4 ddm_course/函数/foo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Code_effective_效率/code_效率.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Flag标记思想/6 kyu Is there a sequence re-occuring in the list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Flag标记思想/6 kyu Simple string indices.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Flag标记思想/7 kyu Count salutes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Flag标记思想/7 kyu Stones on the Table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Flag标记思想/ddmcoder_boys_girls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Output_输出/7 kyu Complete The Pattern #10 - Parallelogram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Output_输出/7 kyu Complete The Pattern #5 - Even Ladder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Output_输出/Fstring_usage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/list_数组/7 kyu Maximum Length Difference.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +54,8 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Zero 2 Hero Class/Loop_control_flow/While_loopExit.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Zero 2 Hero Class/Math/排列组合/cloth_color.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/book_lend_func.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/brilliant/PourOut/pour-it-out-13.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -33,13 +64,16 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="1UJnOvEE3PVDDRjgD3GvVfiRKwx" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "run.code.analysis.last.selected.profile": "aDefault",
@@ -55,14 +89,14 @@
       <recent name="D:\Python_workspace\algorithm_portal\abc_ericlee_solve" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python_workspace\brilliant" />
       <recent name="D:\Python_workspace\测试题目\algorithm_thinking\Cat_Junior_level" />
       <recent name="D:\Python_workspace\子问题待归类" />
       <recent name="D:\Python_workspace\2 data Science" />
       <recent name="D:\Python_workspace\algorithm_portal" />
-      <recent name="D:\Python_workspace\algorithm_portal\AMC" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.lzj_ref">
+  <component name="RunManager" selected="Python.pour-it-out-13">
     <configuration name="摆线" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -84,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Deposite" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="book_lend_func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +126,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan/Deposite.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/book_lend_func.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="While_loopExit" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="code_效率" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zero 2 Hero Class/Loop_control_flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Zero 2 Hero Class/Code_effective_效率" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero 2 Hero Class/Loop_control_flow/While_loopExit.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Zero 2 Hero Class/Code_effective_效率/code_效率.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lzj_ref" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="love_love_love" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 turtle_session/丁丁猫student/lzj_ref.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 turtle_session/丁丁猫student/love_love_love.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,31 +181,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests (Deposite 内)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="pour-it-out-13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/brilliant/PourOut" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan/Deposite.py" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/brilliant/PourOut/pour-it-out-13.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.lzj_ref" />
+        <item itemvalue="Python.pour-it-out-13" />
+        <item itemvalue="Python.code_效率" />
+        <item itemvalue="Python.book_lend_func" />
         <item itemvalue="Python.摆线" />
-        <item itemvalue="Python.While_loopExit" />
-        <item itemvalue="Python 测试.Doctests (Deposite 内)" />
-        <item itemvalue="Python.Deposite" />
+        <item itemvalue="Python.love_love_love" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +236,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
