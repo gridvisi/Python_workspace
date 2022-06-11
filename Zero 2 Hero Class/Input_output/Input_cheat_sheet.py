@@ -1,4 +1,8 @@
 # Getting two pieces of input.
+x,y = 3,2
+print(x * y)
+
+
 first_name = input("Hi, what's your first name? ")
 last_name = input("Hi, what's your last name? ")
 print(f"Hello, {first_name} {last_name}!")
