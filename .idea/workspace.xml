@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1889e1e-9fe2-4ff3-b2da-8a495f2053c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan/Deposite.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Loop_control_flow/While_loopExit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Math/排列组合/cloth_color.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/DP/Longest Repeated Subsequence Problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/DP/Pots of Gold Game.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_github_collection/100days_master/brief.py" beforeDir="false" afterPath="$PROJECT_DIR$/0_github_collection/100days_master/brief.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Input_output/Input_cheat_sheet.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Input_output/Input_cheat_sheet.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +42,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "run.code.analysis.last.selected.profile": "aDefault",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Code With Me"
   }

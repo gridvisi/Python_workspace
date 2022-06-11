@@ -1,3 +1,8 @@
+# Getting two pieces of input.
+first_name = input("Hi, what's your first name? ")
+last_name = input("Hi, what's your last name? ")
+print(f"Hello, {first_name} {last_name}!")
+
 
 name = input("Enter name: ")
 age = input("Enter age: ")
@@ -77,7 +82,4 @@ name = input("Hello, who are you? ")
 
 print(f"Hello, {name}, it's so nice to have you in class!")
 
-# Getting two pieces of input.
-first_name = input("Hi, what's your first name? ")
-last_name = input("Hi, what's your last name? ")
-print(f"Hello, {first_name} {last_name}!")
+
