@@ -1,6 +1,37 @@
-#返回结果
-#
+# 返回 随机生成色彩码
+# https://www.codewars.com/kata/56f1c6034d0c330e4a001059/train/python
 
+import random
+def generate_color_rgb():
+    #here is the code go
+    c = '#'+"".join([random.choice("0123456789ABCDEF") for i in range(6)])
+    return c
+print(generate_color_rgb())
+
+#2
+import random
+def generate_color_rgb():
+    return "#%06x" % random.randint(0, 0xFFFFFF)
+
+#3
+import random
+def generate_color_rgb():
+    return "#"+"".join(random.sample("0123456789ABCDEF", 6))
+
+#4
+
+def generate_color_rgb():
+    return f"#{random.randint(0, 255):02x}{random.randint(0, 255):02x}{random.randint(0, 255):02x}"
+
+
+#6
+import random
+def generate_color_rgb():
+    num_list = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f']
+    color_rgb = '#'
+    for i in range(0, 6):
+        color_rgb += random.choice(num_list)
+    return color_rgb
 
 #数学  取整 取余
 

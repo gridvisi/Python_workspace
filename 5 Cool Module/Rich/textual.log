@@ -1,0 +1,8 @@
+---
+driver=<class 'textual.drivers.windows_driver.WindowsDriver'>
+event monitor constructed
+event monitor thread started
+Mount() >>> HoverApp(title='Textual Application')
+Mount() >>> DockView(name='DockView#1')
+PROCESS END
+event monitor thread finished

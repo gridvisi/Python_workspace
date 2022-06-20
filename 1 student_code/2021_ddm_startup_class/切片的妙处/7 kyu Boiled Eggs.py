@@ -13,6 +13,8 @@ Example (Input --> Output)
 
 
 #17 minuters
+import random
+
 print(list(range(0,17,8)))
 
 
@@ -72,3 +74,65 @@ print(list(range(0,eggs,cap)))
 print(list(range(0,4,8)))
 
 
+# feed dog
+bowl = None or "empty"
+bowl = 3
+if bowl == 0: #"empty"
+    bowl += 5
+
+else:
+    #new = 5 - bowl
+    #bowl += new
+    bowl = 5
+
+print('bowl',bowl)
+
+import random
+c = random.choices(['green','red','red','red','red'])
+print(c)
+if c == ['red']:
+    print('sui say:','green')
+print(c)
+
+#slice
+
+name = '张瀚文'
+name = "诸葛孔明"
+print(name[:2],name[2:])
+
+print(name[:2] + name[2:])
+
+# 0-100,之间所有个位数是0的全部列出来
+ans = []
+for i in range(101):
+    if str(i)[-1] == '0': #数据类型 字符串，整数型
+        ans.append(str(i))
+print('ans:',ans)
+
+#2nd solve
+print(list(range(0,101,5)))
+
+#3
+for day in range(101):
+    if day % 3 == 0 and day % 5 == 0 and day % 7 == 0:
+        print(day)
+
+#4
+day = 1
+
+while True:
+    if day % 3 == 0 and day % 5 == 0 and day % 7 == 0:
+        print(day)
+        break
+    day += 1
+print(day)
+
+a,b = 10,15
+
+def gcd(a,b):
+    while a != 0:
+        a,b = b%a,a
+        print(a,b)
+    return a,b
+#a,b =
+print(gcd(a,b))
