@@ -7,9 +7,12 @@ What will this python code do?
 import turtle
 #from turtle import *color("lime")
 t = turtle
-for i in range(600):
-    t.forward(130)
+#
+for i in range(30):
+    x = 0
+    t.forward(50 + x)
     t.left(90)
+    x += 10
     t.color("green")
 # guess who to be random choice?
 # kevin 猜对是自己永远猜字

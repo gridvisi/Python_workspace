@@ -8,12 +8,16 @@ import turtle as t
 #t = turtle
 # argument
 colors = ['red','orange','yellow','green','blue','purple','pink']
+# colors[1]
+print(colors[0])
+
 width = 10  #赋值
-for i in range(7):
-    t.pensize(width * i/5)
+for i in range(70):
+    t.color(colors[6])  #
+    t.pensize(width * i/5) #pensize
     t.forward(200)
     t.left(90)
-    t.color(colors[i])
+
 t.done()
 '''
 

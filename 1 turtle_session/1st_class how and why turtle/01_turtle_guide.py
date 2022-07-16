@@ -477,7 +477,13 @@ turtle.fd(distance)
 海龟前进 distance 指定的距离，方向为海龟的朝向
 distance -- 一个数值 (整型或浮点型)
 '''
+#for循环实现一个正方形
 
+import turtle as t
+for i in range(5): #0,1,2,3,4
+    t.forward(150)
+    t.left(90)
+t.done()
 
 import turtle
 t = turtle
@@ -497,3 +503,5 @@ t.dot() #画点
 t.stamp() #印章
 #t.clearstamp() #清除印章
 #t.clearstamps() #清除多个印章
+
+

@@ -5,298 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1889e1e-9fe2-4ff3-b2da-8a495f2053c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/physics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan/Call_centre.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 data Science/Dataset/animal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 data Science/Dataset/diagrams" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 data Science/Dataset/diagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 data Science/csv_pillar/Mito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4 ddm_course/Math/trunc in Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Cool Module/Attrgetter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Cool Module/Rich/Align_rich.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Cool Module/Rich/Clip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Cool Module/Rich/Tree_rich.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Cool Module/Rich/docarray_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5 Cool Module/Rich/textual.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game/Dice_roll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game/Quiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game/TicTacToe.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Game/angry-birds-python-master/src/5 kyu Find heavy ball - level master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Math/Probability/6 kyu Probability 1 The Infinite Spinning Wheel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/itertools_collection/6 kyu Common array elements.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/itertools_collection/7 kyu Number to digit tiers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/itertools_collection/7 kyu Product ID from URL.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/itertools_collection/Dropwhile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/itertools_collection/sum list but ignore any duplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/GeekforGeek/Longrepeatsub.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/GeekforGeek/Minimum number of jumps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/GeekforGeek/WeightJobSchedule.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/5 kyu Simple Fun Two Programmers And Gold.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/分治算法/5 kyu Find heavy ball - level master.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/分治算法/5 kyu Find heavy ball - level ubermaster.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/分治算法/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brilliant/Bool_clue_filter/daily-problems-elimination-grid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/brilliant/PourOut/6 kyu Rectangle into Squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/1 collection_生肖.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/10 Python Tips and Tricks for Beginners.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/10个python初学者技巧.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/180305advanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20170925面.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/2017821 beequeen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20180226.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20180226P5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20180507advanced.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20190921.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20191019 decode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20191025.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20191102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20191109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20191116.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20191118_output format.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20191124.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20191207.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20191221.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20191225 ddm test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/20210321.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/30 tricks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/5 things wrong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/A Beginner’s Guide to the Python time Module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/Filter Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/Invite More Women.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/The Python Programming Tricks for Beginners.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/find_two_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/foo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/high-way-route.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/love.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/masterlisa_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/py kwlist.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/python38 new feature.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/python_gorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/turtle 时钟.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/turtle_方形螺旋.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/wave peak and bottom.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/万年历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/二进制.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/五喉分桃.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/列表推导.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/回文.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/回文最长.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/坐标.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/坐标2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/字符串操作.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/完全平方数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/对比算法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/尾递归.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/岁数大小.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/巧克力.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/平均成绩.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/弹簧摆.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/报价比较.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/挖金币.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/换糖.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/数论numbertheor 循环极限.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/旋转.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/星座.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/最优选址.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/最短路径.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/最速下降法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/最速降线.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/最速降线博努力.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/猴子.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/猴子分桃.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/生成器yield.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/矩阵.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/砝码.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/立方和.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/糖纸换糖.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/累加.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/练习题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/背包问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/贪心算法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/进制转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/迪德尼数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/迭代器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/迷宫.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/迷宫最短.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/迷宫最短2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/随机数random.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/静态变量.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/验证py numpy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2019-2020/鸡兔同笼.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2021_Quiz/20210711.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/2021_Quiz/Top50 Tips_and_trick.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/Python第三方库/jieba.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/Quiz/Class_Quiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/Quiz/Class_abc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/Quiz/thepythonquiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Basic Data Types in Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Dictionary_iteration_quiz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Program Structure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Python Dictionary Iteration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Python Lists and Tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Python Operators and Expressions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Python Program Structure.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Python Strings and Character Data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Python variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Python while Loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Python_append() Add Items to Your Lists in Place.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/RealPython test set.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/Splitting, Concatenating, and Joining Strings in Python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/RealPython/iterate-through-dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/CAT18/1_DNAcount.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/CAT18/while_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/Cat_Junior_level/Cat_junior_2014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/Cat_Junior_level/Cat_junior_2015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/Cat_Junior_level/Cat_junior_2016.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/Cat_Junior_level/Cat_junior_2022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/Cat_Junior_level/Cat_senior_2013.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/Cat_Junior_level/Cat_senior_2015.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/Cat_Junior_level/Cat_senrior_2014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/Cat_Junior_level/k11_12CAT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/Cat_intermediate/AIC Intermediate_2014.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/Uprimary_k4-6/Cat_2019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/algorithm_thinking/三向机器人.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/电子学会python/二级.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/电子学会python/电子学会少儿编程Python二级考试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/电子学会python/青少年软件编程Python等级考试试卷五级.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csAlgorithmThinking/蓝桥杯/蓝桥省赛真题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 student_code/tongtong/PrimeFind.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 turtle_session/4th_algriothm/fib_recur.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 turtle_session/Turtle_project/Countdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 turtle_session/Turtle_project/clockdigital.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/4 Graph/Social_Network/user_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/Python TypeSpeed/calculate the accuracy of input prompt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock/Alarm Clock using Tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock/Countdown Timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock/DigitClock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock/final_countdown.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Binary Search Visualizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Fibonacci Search Visualizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Sub Set Search Visualizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Pygame/Adding Collision.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Pygame/Moveit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Pygame/an object jump.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/Botton_widget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/Creating a multiple Selection.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/Moving objects using Canvasmove() method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/Tabbed Widget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/a LabelFrame inside a Tkinter Canvas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Visualizer/Binary Search Visualizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/mp3爬虫/mp3_eventDrive.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/翻译语言/langDetec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/随机游戏/Paper_Rock_Sessiors/8 kyu Rock Paper Scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/随机游戏/Rock Paper Scissors/7 kyu Rock Paper Scissors Oracle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/随机游戏/Rock Paper Scissors/rock_paper_sessior.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3 codewars/8 kyu/8 kyu Fix the loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Binary/5 kyu The Binary Binary Expansion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Binary/7 kyu Race Ceremony.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Control_flow_if_condition/while_if/6 kyu Calculate Pyramid Height.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Math/Pi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Math/累加/6 kyu Simple number triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/递归/5 kyu Memoized Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_portal/Hamiltonian Cycle/Hamiltonian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm_portal/sortAlgorithm/QuickSort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 student_code/2021_ddm_startup_class/切片的妙处/7 kyu Boiled Eggs.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 student_code/2021_ddm_startup_class/切片的妙处/7 kyu Boiled Eggs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 turtle_session/取余整九宫格.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/取余整九宫格.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/高级函数/6 kyu Common array elements.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/高级函数/7 kyu Number to digit tiers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/高级函数/7 kyu Product ID from URL.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/高级函数/sum list but ignore any duplicates.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_portal/Computer Science/CAT_ComputerThinking/2020CAT-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/csAlgorithmThinking/Computer Science/CAT_ComputerThinking/2020CAT-9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_portal/Computer Science/computer-science-warmups-level-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/csAlgorithmThinking/Computer Science/computer-science-warmups-level-2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/6 kyu Find heavy ball - level conqueror.py" beforeDir="false" afterPath="$PROJECT_DIR$/algorithm_portal/abc_ericlee_solve/分治算法/6 kyu Find heavy ball - level conqueror.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/brilliant/Bool_clue_线索排除/daily-problems-elimination-grid.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/brilliant/PourOut/pour-it-out-13.py" beforeDir="false" afterPath="$PROJECT_DIR$/brilliant/PourOut/pour-it-out-13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/1 collection_生肖.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/10 Python Tips and Tricks for Beginners.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/10个python初学者技巧.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/180305advanced.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20170925面.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/2017821 beequeen.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20180226.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20180226P5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20180507advanced.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20190921.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20191019 decode.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20191025.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20191102.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20191109.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20191116.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20191118_output format.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20191124.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20191207.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20191221.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20191225 ddm test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/20210321.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/30 tricks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/5 things wrong.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/A Beginner’s Guide to the Python time Module.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/Filter Function.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/Invite More Women.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/The Python Programming Tricks for Beginners.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/find_two_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/foo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/high-way-route.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/love.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/masterlisa_python.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/py kwlist.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/python38 new feature.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/python_gorithm.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/turtle 时钟.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/turtle_方形螺旋.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/wave peak and bottom.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/万年历.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/二进制.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/五喉分桃.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/列表推导.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/回文.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/回文最长.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/坐标.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/坐标2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/字符串操作.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/完全平方数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/对比算法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/尾递归.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/岁数大小.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/巧克力.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/平均成绩.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/弹簧摆.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/报价比较.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/挖金币.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/换糖.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/数论numbertheor 循环极限.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/旋转.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/星座.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/最优选址.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/最短路径.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/最速下降法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/最速降线.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/最速降线博努力.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/猴子.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/猴子分桃.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/生成器yield.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/矩阵.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/砝码.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/立方和.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/糖纸换糖.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/累加.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/练习题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/背包问题.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/贪心算法.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/进制转换.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/迪德尼数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/迭代器.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/迷宫.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/迷宫最短.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/迷宫最短2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/随机数random.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/静态变量.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/验证py numpy.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2019-2020/鸡兔同笼.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2021_Quiz/20210711.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/2021_Quiz/Top50 Tips_and_trick.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/Python第三方库/jieba.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/Quiz/Class_Quiz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/Quiz/Class_abc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/Quiz/thepythonquiz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Basic Data Types in Python.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Dictionary_iteration_quiz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Program Structure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Python Dictionary Iteration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Python Lists and Tuples.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Python Operators and Expressions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Python Program Structure.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Python Strings and Character Data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Python variable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Python while Loops.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Python_append() Add Items to Your Lists in Place.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/RealPython test set.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/Splitting, Concatenating, and Joining Strings in Python.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/RealPython/iterate-through-dictionary.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/CAT18/1_DNAcount.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/CAT18/while_loop.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/Cat_Junior_level/Cat_junior_2014.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/Cat_Junior_level/Cat_junior_2015.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/Cat_Junior_level/Cat_junior_2016.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/Cat_Junior_level/Cat_junior_2022.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/Cat_Junior_level/Cat_senior_2013.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/Cat_Junior_level/Cat_senior_2015.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/Cat_Junior_level/Cat_senrior_2014.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/Cat_Junior_level/k11_12CAT.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/Cat_intermediate/AIC Intermediate_2014.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/Uprimary_k4-6/Cat_2019.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/algorithm_thinking/三向机器人.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/电子学会python/二级.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/电子学会python/电子学会少儿编程Python二级考试.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/电子学会python/青少年软件编程Python等级考试试卷五级.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/测试题目/蓝桥杯/蓝桥省赛真题.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/01_turtle_guide.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/01_turtle_guide.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/brilliant_easy.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/brilliant_easy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/lijunlin.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/lijunlin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 turtle_session/4th_algriothm/Mod_div.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/4th_algriothm/Mod_div.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1 turtle_session/4th_algriothm/fibonacci_golden_ratio.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/4th_algriothm/fibonacci_golden_ratio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Project_base_learning/Python 打字速度测试游戏/calculate the accuracy of input prompt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Project_base_learning/高铁最省路线.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 Project_base_learning/高铁最省路线.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Join_split/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Join_split/123.py" afterDir="false" />
     </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -313,10 +68,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/2 Project_base_learning/5 Finance_plan/Call_centre.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/5 Cool Module/Attrgetter.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/book_lend_func.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/brilliant/PourOut/6 kyu Rectangle into Squares.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/2 Project_base_learning/随机游戏/Paper_Rock_Sessiors/8 kyu Rock Paper Scissors.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -332,12 +85,9 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "last_opened_file_path": "D:/Python_workspace/1 turtle_session/StackOverflow/fibonacci_retangle.py",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python_workspace\2 data Science\Python代码变手绘" />
@@ -347,15 +97,27 @@
       <recent name="D:\Python_workspace\algorithm_portal\abc_ericlee_solve" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python_workspace\2 Project_base_learning\UI\TkinterTutorials" />
+      <recent name="D:\Python_workspace\2 Project_base_learning\UI" />
+      <recent name="D:\Python_workspace\2 Project_base_learning\随机游戏\Rock Paper Scissors" />
       <recent name="D:\Python_workspace\algorithm_portal\abc_ericlee_solve\分治算法" />
       <recent name="D:\Python_workspace\测试题目" />
-      <recent name="D:\Python_workspace\brilliant" />
-      <recent name="D:\Python_workspace\测试题目\algorithm_thinking\Cat_Junior_level" />
-      <recent name="D:\Python_workspace\子问题待归类" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.fibonacci_retangle">
-    <configuration name="摆线" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Countdown Timer">
+    <configuration name="Alarm Clock using Tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -363,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 turtle_session/python绘制摆线" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/Digit_Clock" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 turtle_session/python绘制摆线/摆线.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/Digit_Clock/Alarm Clock using Tkinter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -376,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Square_grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Binary Search Visualizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -384,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 turtle_session/Grid_collection" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/PyQT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 turtle_session/Grid_collection/Square_grid.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/PyQT/Binary Search Visualizer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -397,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fibonacci_retangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Countdown Timer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -405,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 turtle_session/StackOverflow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 turtle_session/StackOverflow/fibonacci_retangle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock/Countdown Timer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -418,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="用python画个五星红旗" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Fibonacci Search Visualizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -426,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 turtle_session/2nd_how_to_startup" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/PyQT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 turtle_session/2nd_how_to_startup/用python画个五星红旗.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/PyQT/Fibonacci Search Visualizer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -439,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rainbow" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Sub Set Search Visualizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -447,11 +209,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/PyQT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/rainbow.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/PyQT/Sub Set Search Visualizer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -462,15 +224,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.fibonacci_retangle" />
-        <item itemvalue="Python.摆线" />
-        <item itemvalue="Python.用python画个五星红旗" />
-        <item itemvalue="Python.Square_grid" />
-        <item itemvalue="Python.rainbow" />
+        <item itemvalue="Python.Countdown Timer" />
+        <item itemvalue="Python.Binary Search Visualizer" />
+        <item itemvalue="Python.Sub Set Search Visualizer" />
+        <item itemvalue="Python.Fibonacci Search Visualizer" />
+        <item itemvalue="Python.Alarm Clock using Tkinter" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -489,7 +251,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

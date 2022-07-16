@@ -35,7 +35,7 @@ def square_sector(r, color_couple):
     t.begin_fill()
     for i in range(2):
         t.rt(90)
-        t.fd(r)
+        t.fd(r) #r
     t.rt(90)
     t.circle(-r, 90)
     t.end_fill()
@@ -58,6 +58,7 @@ t.seth(-90)
 # 循环绘制、填充矩形及扇形
 for i in range(5):
     r = 300 * (golden_ratio ** i)  # 边长
+    print(r)
     # rt(90)#"正方形圆弧图块整体"右转90度绘制
     #square_sector(r,color_ls[i])
     square_sector(r, color_ls[i])
