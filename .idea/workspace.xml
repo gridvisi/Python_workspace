@@ -5,51 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1889e1e-9fe2-4ff3-b2da-8a495f2053c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1 student_code/tongtong/PrimeFind.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 turtle_session/4th_algriothm/fib_recur.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 turtle_session/Turtle_project/Countdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 turtle_session/Turtle_project/clockdigital.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/4 Graph/Social_Network/user_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/Python TypeSpeed/calculate the accuracy of input prompt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock/Alarm Clock using Tkinter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock/Countdown Timer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock/DigitClock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock/final_countdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Binary Search Visualizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Fibonacci Search Visualizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Sub Set Search Visualizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Pygame/Adding Collision.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Pygame/Moveit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Pygame/an object jump.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/Botton_widget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/Creating a multiple Selection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/Moving objects using Canvasmove() method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/Tabbed Widget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/a LabelFrame inside a Tkinter Canvas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/Visualizer/Binary Search Visualizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/mp3爬虫/mp3_eventDrive.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/翻译语言/langDetec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/随机游戏/Paper_Rock_Sessiors/8 kyu Rock Paper Scissors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/随机游戏/Rock Paper Scissors/7 kyu Rock Paper Scissors Oracle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/随机游戏/Rock Paper Scissors/rock_paper_sessior.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3 codewars/8 kyu/8 kyu Fix the loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Binary/5 kyu The Binary Binary Expansion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Binary/7 kyu Race Ceremony.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Control_flow_if_condition/while_if/6 kyu Calculate Pyramid Height.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Math/Pi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Math/累加/6 kyu Simple number triangle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Zero 2 Hero Class/递归/5 kyu Memoized Fibonacci.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/Hamiltonian Cycle/Hamiltonian.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/algorithm_portal/sortAlgorithm/QuickSort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/Draw Clock Design.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/digital clock using Python-Turtle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/Astrological sign or Zodiac sign.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Analog Clock using PyQt5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/CalendarWidget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Create a digital clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Timer Application using PyQt5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/Address Book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/a Pomodoro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/pomodoro.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/01_turtle_guide.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/01_turtle_guide.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/brilliant_easy.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/brilliant_easy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/lijunlin.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/lijunlin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 turtle_session/4th_algriothm/Mod_div.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/4th_algriothm/Mod_div.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1 turtle_session/4th_algriothm/fibonacci_golden_ratio.py" beforeDir="false" afterPath="$PROJECT_DIR$/1 turtle_session/4th_algriothm/fibonacci_golden_ratio.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 Project_base_learning/Python 打字速度测试游戏/calculate the accuracy of input prompt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 Project_base_learning/高铁最省路线.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 Project_base_learning/高铁最省路线.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/Join_split/123.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zero 2 Hero Class/Join_split/123.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +52,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -116,8 +82,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Countdown Timer">
-    <configuration name="Alarm Clock using Tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Astrological sign or Zodiac sign">
+    <configuration name="Analog Clock using PyQt5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/Digit_Clock" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/Digit_Clock/Alarm Clock using Tkinter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Analog Clock using PyQt5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Binary Search Visualizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Astrological sign or Zodiac sign" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -146,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/PyQT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/PyQT/Binary Search Visualizer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/Astrological sign or Zodiac sign.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Countdown Timer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="CalendarWidget" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/UI/Digit_Clock/Countdown Timer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/CalendarWidget.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Fibonacci Search Visualizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Create a digital clock" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/PyQT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/PyQT/Fibonacci Search Visualizer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Create a digital clock.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Sub Set Search Visualizer" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Timer Application using PyQt5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -209,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/PyQT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/PyQT/Sub Set Search Visualizer.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Timer Application using PyQt5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Countdown Timer" />
-        <item itemvalue="Python.Binary Search Visualizer" />
-        <item itemvalue="Python.Sub Set Search Visualizer" />
-        <item itemvalue="Python.Fibonacci Search Visualizer" />
-        <item itemvalue="Python.Alarm Clock using Tkinter" />
+        <item itemvalue="Python.Astrological sign or Zodiac sign" />
+        <item itemvalue="Python.CalendarWidget" />
+        <item itemvalue="Python.Timer Application using PyQt5" />
+        <item itemvalue="Python.Analog Clock using PyQt5" />
+        <item itemvalue="Python.Create a digital clock" />
       </list>
     </recent_temporary>
   </component>
