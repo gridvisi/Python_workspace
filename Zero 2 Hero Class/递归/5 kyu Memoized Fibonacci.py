@@ -57,3 +57,30 @@ def fibonacci(n):
     if n in [0, 1]:
         return n
     return fibonacci(n - 1) + fibonacci(n - 2)
+
+
+#3
+def fibonacci(n):
+  fib = [0,1]
+  for i in xrange(2,n+1):
+    fib.append(fib[i-1] + fib[i-2])
+  return fib[n]
+
+#4
+def fibonacci(m):
+    cache = {0:0,1:1}
+    def fib(n):
+        if n not in cache:
+            cache[n] = fib(n-1)+fib(n-2)
+        return cache[n]
+    return fib(m)
+
+#5
+memo = {}
+
+def fibonacci(n):
+    if n in [0, 1]:
+        return n
+    if n not in memo:
+        memo[n] = fibonacci(n - 1) + fibonacci(n - 2)
+    return memo[n]

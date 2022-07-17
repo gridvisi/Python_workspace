@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1889e1e-9fe2-4ff3-b2da-8a495f2053c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/visible可视化/Quick Sort using Tkinter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/visible可视化/Visualizing O(n).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 data Science/Tracking bird migration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 data Science/bird_tracking.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/5 Games to Build/Rock Paper and Scissors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/5 Games to Build/Tkinter to roll the dice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/5 Games to Build/Word Guessing Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/5 Games to Build/dice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Game/5 Games to Build/dice_rolling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/Simulate a Tiny Solar System with Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/Simulating Dynamical Systems with Python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/Two-Body Problem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/images/newton_law.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/sample_gifs/solar_3d_ipyvolume.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/sample_gifs/solar_orbit_2d.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/sample_gifs/solar_orbit_3d_plt.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/sample_gifs/solar_orbit_plt2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/sample_gifs/three_body_2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/simulate_earth_orbit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/solar_orbit_2d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/solar_orbit_3d_ipyvolume.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/solar_orbit_3d_plt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Physics/orbit-main/three_body.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2 Project_base_learning/UI/a Keylogger.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/a Keylogger.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zero 2 Hero Class/递归/5 kyu Memoized Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/Zero 2 Hero Class/递归/5 kyu Memoized Fibonacci.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +46,6 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/2 Project_base_learning/随机游戏/Paper_Rock_Sessiors/8 kyu Rock Paper Scissors.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/book_lend_func.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -47,7 +63,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -66,8 +82,8 @@
       <recent name="D:\Python_workspace\测试题目" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Quick Sort using Tkinter">
-    <configuration name="Astrological sign or Zodiac sign" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.main">
+    <configuration name="Rock Paper and Scissors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Game/5 Games to Build" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/Astrological sign or Zodiac sign.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game/5 Games to Build/Rock Paper and Scissors.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="CalendarWidget" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tkinter to roll the dice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -96,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Game/5 Games to Build" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/CalendarWidget.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game/5 Games to Build/Tkinter to roll the dice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Quick Sort using Tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Word Guessing Game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -117,11 +133,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/visible可视化" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Game/5 Games to Build" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/visible可视化/Quick Sort using Tkinter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game/5 Games to Build/Word Guessing Game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +146,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Tracking bird migration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dice_rolling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -138,11 +154,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 data Science" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Game/5 Games to Build" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 data Science/Tracking bird migration.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game/5 Games to Build/dice_rolling.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +167,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Visualizing O(n)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,11 +175,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/visible可视化" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Game/5 Games to Build/RollingDiceSimulator-master" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/visible可视化/Visualizing O(n).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Game/5 Games to Build/RollingDiceSimulator-master/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Quick Sort using Tkinter" />
-        <item itemvalue="Python.Visualizing O(n)" />
-        <item itemvalue="Python.Tracking bird migration" />
-        <item itemvalue="Python.Astrological sign or Zodiac sign" />
-        <item itemvalue="Python.CalendarWidget" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.dice_rolling" />
+        <item itemvalue="Python.Tkinter to roll the dice" />
+        <item itemvalue="Python.Word Guessing Game" />
+        <item itemvalue="Python.Rock Paper and Scissors" />
       </list>
     </recent_temporary>
   </component>
