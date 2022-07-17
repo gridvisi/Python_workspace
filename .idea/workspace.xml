@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a1889e1e-9fe2-4ff3-b2da-8a495f2053c1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/Draw Clock Design.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1 turtle_session/1st_class how and why turtle/digital clock using Python-Turtle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/Astrological sign or Zodiac sign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Analog Clock using PyQt5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/CalendarWidget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Create a digital clock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Timer Application using PyQt5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/Address Book.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/a Pomodoro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/TkinterTutorials/pomodoro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/visible可视化/Quick Sort using Tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 Project_base_learning/visible可视化/Visualizing O(n).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 data Science/Tracking bird migration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2 data Science/bird_tracking.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2 Project_base_learning/UI/a Keylogger.py" beforeDir="false" afterPath="$PROJECT_DIR$/2 Project_base_learning/UI/a Keylogger.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,8 +28,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/book_lend_func.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/2 Project_base_learning/随机游戏/Paper_Rock_Sessiors/8 kyu Rock Paper Scissors.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/book_lend_func.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -51,9 +45,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Python_workspace\2 data Science\Python代码变手绘" />
@@ -70,40 +66,7 @@
       <recent name="D:\Python_workspace\测试题目" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Python.Astrological sign or Zodiac sign">
-    <configuration name="Analog Clock using PyQt5" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python_workspace" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Analog Clock using PyQt5.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Quick Sort using Tkinter">
     <configuration name="Astrological sign or Zodiac sign" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +109,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Create a digital clock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Quick Sort using Tkinter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +117,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/visible可视化" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Create a digital clock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/visible可视化/Quick Sort using Tkinter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Timer Application using PyQt5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Tracking bird migration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_workspace" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,11 +138,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 data Science" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/UI/PyQT/Timer Application using PyQt5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 data Science/Tracking bird migration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Visualizing O(n)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_workspace" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2 Project_base_learning/visible可视化" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2 Project_base_learning/visible可视化/Visualizing O(n).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,15 +174,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Quick Sort using Tkinter" />
+        <item itemvalue="Python.Visualizing O(n)" />
+        <item itemvalue="Python.Tracking bird migration" />
         <item itemvalue="Python.Astrological sign or Zodiac sign" />
         <item itemvalue="Python.CalendarWidget" />
-        <item itemvalue="Python.Timer Application using PyQt5" />
-        <item itemvalue="Python.Analog Clock using PyQt5" />
-        <item itemvalue="Python.Create a digital clock" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -217,9 +201,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
